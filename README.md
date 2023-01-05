@@ -1,2 +1,2 @@
-# dio-challenge-github-first-repository
-Project Challenge about Git/GitHub
+# Project Challenge about Git/GitHub
+Desáfio de Projetos sobre Git/Hub
